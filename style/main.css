@@ -54,3 +54,16 @@ main .principal-movie{
     align-items: flex-start;
 
 }
+
+.principal-movie .description{
+    margin-bottom: 40px;
+}
+
+.title{
+    font-size: 60px;
+    color: #FEF432;
+    line-height: 50px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
