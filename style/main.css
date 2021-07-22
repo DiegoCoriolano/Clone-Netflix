@@ -81,6 +81,7 @@ main .principal-movie{
     font-size: 12px;
     font-weight: bold;
     cursor:pointer;
+    transition: .5s ease all;
 }
 
 .button-movie:hover{
