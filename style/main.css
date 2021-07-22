@@ -89,4 +89,8 @@ main .principal-movie{
     background-color: white;
 }
 
+.button-movie i{
+    margin-right: 5px;
+}
+
 
